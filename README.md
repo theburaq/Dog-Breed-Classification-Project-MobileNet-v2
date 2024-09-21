@@ -1,7 +1,7 @@
-# Dog-Breed-Classification-Project-ML
+# Dog-Breed-Classification-Project-MobileNet-v2
 (The is a follow-along tutorial project done in the course "Complete AI & Machine Learning, Data Science Bootcamp" by Andrei N. & Daniel B.")
 
-This notebook builds an end-to-end multi-class image classifier using TensorFlow 2.0 and TensorFlow Hub.
+This notebook builds an end-to-end multi-class image classifier using MobileNet v2 CNN architecture and libraries TensorFlow 2.0 and TensorFlow Hub.
 
 In this project we're going to be using machine learning to help us identify different breeds of dogs by using "Unstructured data". 
 
